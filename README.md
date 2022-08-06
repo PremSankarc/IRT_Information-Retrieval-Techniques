@@ -18,8 +18,16 @@ An inverted index is an index data structure storing a mapping from content, suc
 
 You can  download the Python Jupyter Notebbook [Inverted Index](IRT_Inverted_Index.ipynb)
 
+
+### Chatbot for Beginners
+
 https://github.com/PremSankarc/IRT_Term-Document-Matrix-/blob/main/IRT_Term-Document%20Matrix.ipynb
 
+A chatbot is a computer application used to conduct an on-line chat conversation via text like live human agent.A chatbot is a type of software that can help customers by automating conversations and interact with them through messaging platforms.Such programs are often designed to convincingly simulate how a human would behave as a conversational partner, thereby passing the Turing test.
+
+Chatbots are typically used in dialog systems for various practical purposes including customer service or information acquisition. — Wikipedia
+
+This notebook contains basic code for building a chatbot.
 
 
 
