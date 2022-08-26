@@ -30,6 +30,3 @@ This notebook contains basic code for building a chatbot.
 
 
 
-https://github.com/PremSankarc/IRT_Term-Document-Matrix-/blob/main/IRT_Term-Document%20Matrix.ipynb
-
-
